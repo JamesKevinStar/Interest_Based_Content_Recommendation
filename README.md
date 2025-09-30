@@ -16,7 +16,7 @@ The project uses 3 datasets:
   - **Posts**: Contains post details, including the type of content.
   - **Engagements**: Shows which kind of post likes every user.
 
-    
+![Data](ImgReadMe/DataInfo.png)
  
 ## Procedure
 
